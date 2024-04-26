@@ -1,0 +1,64 @@
+.gallery img{ width:100%
+}
+
+h1{ background-color: crimson;
+    color:white;
+    text-align:center; 
+    font-family:cursive;
+    font-size:2em;
+}
+
+
+h2{
+    font-family: fantasy;
+    font-size: 35px;
+    color:darkslateblue;
+    font-style:italic;
+    font-size:2em;
+}
+
+h3{
+    background-color:cornflowerblue;
+    color:white;
+    text-align:center; 
+    font-family: monospace;
+    font-style: italic;
+    font-size:5em; 
+}
+
+h4{ font-family:cursive;
+    font-size: 2em;
+    color: cornflowerblue;
+  
+}
+
+p{ font-family:inherit;
+    color:blueviolet;
+    font-style:oblique;
+    font-size:1.2em;
+}
+
+#menu{
+      width:100%;
+      height:40px;
+      background-color: cornflowerblue;
+      padding-top: 12px;
+}
+
+#menu a{
+      color:#ffffff;
+      font-family: Helvetica, sans-serif;
+      font-size: 2.5em;
+      text-decoration:none;
+      font-weight: 800px;
+      
+      padding-left: 20px;
+      padding-right: 20px;
+}
+
+#menu a:hover{
+       color: #5077bd;
+}
+    
+    a { text-decoration:none;
+}
